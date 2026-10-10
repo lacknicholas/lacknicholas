@@ -45,5 +45,4 @@ Quero iniciar minha carreira em tecnologia, colocar meus conhecimentos em práti
 ## Objetivo profissional
 
 Busco uma oportunidade de estágio em desenvolvimento de software, sem deixar de considerar vagas de Suporte de TI e Help Desk N1, que também representam caminhos para aplicar e ampliar meus conhecimentos em tecnologia.
-## Hi there 👋
 
